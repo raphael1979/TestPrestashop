@@ -23,11 +23,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '74298624859707788e14442-15857254',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_597098600e5cf8_79702110',
+  'unifunc' => 'content_5970ac7be47a92_39133492',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_597098600e5cf8_79702110')) {function content_597098600e5cf8_79702110($_smarty_tpl) {?><section class="featured-products clearfix">
+<?php if ($_valid && !is_callable('content_5970ac7be47a92_39133492')) {function content_5970ac7be47a92_39133492($_smarty_tpl) {?><section class="featured-products clearfix">
   <h1 class="h1 products-section-title text-uppercase">
     Produits populaires
   </h1>
